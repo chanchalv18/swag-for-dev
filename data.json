@@ -440,4 +440,13 @@
     "dateAdded": "2019-10-08T21:00:00.000Z",
     "tags": ["stickers", "hacktoberfest", "clothing"]
   }
+  {
+    "name": "Coding Blocks Superhero India",
+    "difficulty": "medium",
+    "description":"become their campus ambassador",
+    "reference": "https://codingblocks.com/campus-ambassador-program.html",
+    "image": "https://blog.codingblocks.com/2019/a-journey-from-hero-to-superhero-2/",
+    "dateAdded": "2019-10-12T15:29:00.000Z",
+    "tags": ["stickers", "clothing", "hacktoberfest"]
+  },
 ]
